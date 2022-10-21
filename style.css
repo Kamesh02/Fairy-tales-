@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-image:  url(./k1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.con1 h1{
+	text-align: center;
+	text-decoration: underline;
+	font-family: Gabriola;
+	padding-top: 50px;
+
+
+}
+.con1 p
+{
+	padding-right: 70%;
+	padding-top: 80px;
+	margin-left: 20px;
+	font-family: Gabriola;
+	font-size: 20px;
+
+}
+.con2 p
+{
+	padding-top: 80px;
+	padding-right: 70%;
+	margin-left: 20px;
+	font-family: Gabriola;
+	font-size: 20px;
+
+}
+.con3 p
+{
+	padding-top: 80px;
+
+	padding-right: 70%;
+	margin-left: 20px;
+	font-family: Gabriola;
+	font-size: 20px;
+
+}
+
